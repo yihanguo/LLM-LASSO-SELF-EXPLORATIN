@@ -1,0 +1,11 @@
+,mean,median,std
+age,40.02,38.0,10.42
+duration,258.29,180.0,259.28
+campaign,2.57,2.0,2.77
+pdays,962.48,999.0,186.91
+previous,0.17,0.0,0.49
+emp.var.rate,0.08,1.1,1.57
+cons.price.idx,93.58,93.75,0.58
+cons.conf.idx,-40.5,-41.8,4.63
+euribor3m,3.62,4.86,1.73
+nr.employed,5167.04,5191.0,72.25

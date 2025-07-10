@@ -1,0 +1,13 @@
+,mean,median,std
+fixed acidity,8.32,7.9,1.74
+volatile acidity,0.53,0.52,0.18
+citric acid,0.27,0.26,0.19
+residual sugar,2.54,2.2,1.41
+chlorides,0.09,0.08,0.05
+free sulfur dioxide,15.87,14.0,10.46
+total sulfur dioxide,46.47,38.0,32.9
+density,1.0,1.0,0.0
+pH,3.31,3.31,0.15
+sulphates,0.66,0.62,0.17
+alcohol,10.42,10.2,1.07
+quality,5.64,6.0,0.81
